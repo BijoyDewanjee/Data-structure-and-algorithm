@@ -17,7 +17,7 @@ void dfs(int u){
 
 int main(){
     int n,e;
-    cin>>n>>e; /// n= total number of node. m total number of edge
+    cin>>n>>e; /// n= total number of node. e total number of edge
     int u,v;  //U node v edge
     for(int i=1;i<=e;i++){
         cin>>u>>v;
